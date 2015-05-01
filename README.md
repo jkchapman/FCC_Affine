@@ -3,6 +3,8 @@ A simple, extremely quickly thrown together implementation of the Affine Cipher 
 Required for Fundamental Concepts of Cryptography, a second year CyberSecurity unit at Curtin.  
 
 ## Usage
+Tested with Java version "1.7.0_75"
+
 Compile with: 
 
 javac AffineCipher.java  
